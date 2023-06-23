@@ -1,4 +1,4 @@
-## **Skills Integration Demo: Log File Archiving and Extraction**
+# **Skills Integration Demo: Log File Archiving and Extraction**
 
 ## Instructions
 
