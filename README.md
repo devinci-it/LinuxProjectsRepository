@@ -12,7 +12,7 @@ This course aligns to the Linux Professional Institute (LPI) Linux Essentials Pr
 - [Challenge Lab B: Bash Scripting](./challenge_lab_b)
 - [Challenge Lab C: Log File Archiving](./challenge_lab_c)
 - [Challenge Lab D: Pipes, Redirection, and REGEX](./challenge_lab_d)
-- [Challenge Lab E: Networking Configuration](./challenge_lab_e)
+
 
 Each project is organized in its own directory within the repository. You 
 can create the directories and add the necessary files and resources for 
