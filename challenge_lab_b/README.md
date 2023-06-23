@@ -1,4 +1,4 @@
-# User Management Script
+# Skills Integration Demo: User Management Script
 
 This script automates the user management tasks, including creating a new user and group, setting passwords, and managing directory permissions. It prompts the user to enter a unique username and group name, ensuring that duplicates are not created.
 

@@ -1,6 +1,4 @@
-Certainly! Here's a complete Markdown file that includes the instructions, commands, and explanations for the given scenario:
-
-# Log File Archiving and Extraction
+## **Skills Integration Demo: Log File Archiving and Extraction**
 
 ## Instructions
 
@@ -56,7 +54,7 @@ Explanation:
 - `-v` enables verbose output.
 - `-f` specifies the filename of the archive.
 
-### Step 5: Extract the files to the backup directory
+## **Step 5: Extract the files to the backup directory**
 
 ```bash
 tar --extract -vf ~/archive/log.tar -C ~/backup
@@ -68,7 +66,7 @@ Explanation:
 - `-f` specifies the filename of the archive.
 - `-C` specifies the directory where the files will be extracted.
 
-### Step 6: Verify the extracted files
+## **Step 6: Verify the extracted files**
 
 ```bash
 ls ~/backup
@@ -81,5 +79,3 @@ That's it! You have successfully completed the tasks and achieved the objectives
 Remember to adjust the paths and filenames if necessary.
 
 **Note:** Ensure that you have appropriate permissions to access the log files and create directories in the specified locations.
-
-Feel free to reach out if you have any questions or encounter any issues during the process.

@@ -1,4 +1,4 @@
-# Skills Integration Demo
+# Skills Integration Demo: User Management
 
 In this Skills Integration Demo, we will showcase the integration of various skills by creating a Linux server user management system. The system will involve creating, modifying, and removing user accounts for different departments, setting up appropriate file permissions, and ensuring access restrictions.
 
@@ -6,6 +6,7 @@ In this Skills Integration Demo, we will showcase the integration of various ski
 
 1. Launch a Linux server or virtual machine with administrative privileges.
 2. Open a terminal or SSH into the server to execute the commands.
+
 
 ## **Lab Procedure**
 
